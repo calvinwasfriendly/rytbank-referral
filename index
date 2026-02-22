@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ryt Bank Referral</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background:#f2f2f2;
+      padding:20px;
+    }
+    .box {
+      max-width:420px;
+      margin:auto;
+      background:white;
+      padding:25px;
+      border-radius:12px;
+      text-align:center;
+    }
+    .code {
+      font-size:26px;
+      font-weight:bold;
+      background:#eee;
+      padding:12px;
+      margin:15px 0;
+      border-radius:8px;
+    }
+    a.button {
+      display:block;
+      background:#000;
+      color:white;
+      padding:14px;
+      text-decoration:none;
+      border-radius:8px;
+      margin-top:15px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="box">
+  <h2>Register Ryt Bank</h2>
+  <p>Use my referral code to sign up</p>
+
+  <div class="code">lkach</div>
+
+  <p>
+    1. Download Ryt Bank app<br>
+    2. Register new account<br>
+    3. Enter referral code above
+  </p>
+
+  <a class="button" href="https://play.google.com" target="_blank">
+    Download App
+  </a>
+</div>
+
+</body>
+</html>
